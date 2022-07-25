@@ -12,5 +12,5 @@ to retrieve student semester exams marks from a database and be displayed by his
 3) "Career Form"  
 for vacancies applying and checking interview state.    #for project try: enter any id from 1 to 5#
 
-"Unfortunately back is not working so to try another project run the program again"
+
 
